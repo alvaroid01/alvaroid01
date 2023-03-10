@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Front-End Engineer at **CareExpand**
 
-- 🌱 I’m currently learning **NestJs, AWS asn Docker**
+- 🌱 I’m currently learning **NestJs, AWS and Docker**
 
 - 👨‍💻 All of my projects are available at [www.alvaroid.com](www.alvaroid.com)
 
